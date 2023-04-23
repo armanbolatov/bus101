@@ -134,22 +134,26 @@ async def get_recommendations(
     """
     if not check_user_prompt(user_prompt):
         return {"error": "The user prompt is not appropriate. Please try again."}
+    
     products = pd.read_csv(PRODUCTS_PATH, sep="\t")
     names_descriptions = products["name"] + ". " + products["description"]
     product_embeddings = names_descriptions.apply(
         lambda x: embedding_from_string(x, save=True)
     )
     prompt_embedding = embedding_from_string(
-        "the best gift for " + user_prompt, save=False
+        "the best gift for the person: " + user_prompt, save=False
     )
     distances = distances_from_embeddings(prompt_embedding, product_embeddings)
     indices_of_nearest_neighbors = indices_of_nearest_neighbors_from_distances(distances)
     recommendations = products.iloc[indices_of_nearest_neighbors]
+    # filter by price
     recommendations = recommendations[
         (recommendations["price_min"] >= price_min)
         & (recommendations["price_max"] <= price_max)
     ]
+    # get the first N recommendations
     recommendations = recommendations.iloc[:N]
+    # get the justifications
     recommendations["justification"] = recommendations.progress_apply(
         lambda x: get_justification(x["name"] + ". " + x["description"], user_prompt),
         axis=1,
