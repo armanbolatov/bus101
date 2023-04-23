@@ -5,3 +5,4 @@ fastapi
 typing
 uvicorn
 matplotlib
+plotly
