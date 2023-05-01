@@ -1,0 +1,97 @@
+id	name	description	price_min	price_max
+1	Chocolate Box	Assorted chocolates for sweet lovers	2500	5000
+2	Perfume Set	Aromatic fragrance collection for men and women	7000	15000
+3	Silk Scarf	High-quality silk scarf with elegant designs	5000	10000
+4	Leather Wallet	Sleek and durable leather wallet for daily use	3500	7000
+5	Candles Set	Scented candles for relaxation and ambiance	3000	6000
+6	Smartphone Holder	Adjustable and portable smartphone stand	1500	3500
+7	Personalized Mug	Customizable mug with name or picture	2000	4500
+8	Bluetooth Speaker	Compact wireless speaker with high-quality sound	6000	12000
+9	Stationery Set	Classy writing tools and notebook for professionals	4000	8000
+10	Wine Bottle	Premium red or white wine selection	3500	10000
+11	Board Game	Fun and engaging board games for all ages	3000	7000
+12	Portable Charger	High-capacity power bank for all devices	5000	10000
+13	Infinity Rose	Beautiful preserved rose in a glass dome	4500	8500
+14	Skincare Set	High-quality skincare products for a glowing skin	6000	15000
+15	Handmade Jewelry	Unique handmade earrings, necklaces, or bracelets	2000	6000
+16	Sweets & Nuts Box	A mixed box of delicious sweets and nuts	2500	5500
+17	Stainless Steel Tumbler	Vacuum insulated tumbler to keep drinks hot or cold	2500	6000
+18	Travel Pillow	Ultra-soft neck pillow for comfortable traveling	2000	4000
+19	Indoor Plant Pot	Elegant and stylish ceramic indoor plant pot	1500	3000
+20	Throw Blanket	Cozy and soft throw blanket for home décor	4000	8000
+21	Keychain	Personalized keychain with a custom design	500	1500
+22	Family Photo Frame	Beautiful photo frame for family memories	1500	3000
+23	Fitness Tracker	Smart wristband to track daily activities and sleep	8000	18000
+24	Cookware Set	Quality non-stick pots and pans	12000	25000
+25	Gourmet Tea Set	Assorted fine tea leaves and infuser	2500	5000
+26	Digital Photo Frame	Electronic picture frame to showcase memories	7000	15000
+27	BBQ Tool Set	Stainless steel grill tools for outdoor cooking	5000	12000
+28	Ceramic Vase	Elegant decorative vase for home or office	2000	4500
+29	Earrings	Set of stud and dangle earrings with different designs	3000	6000
+30	Instant Camera	Fun instant print camera with film pack	15000	25000
+31	Smartphone Lens Kit	Clip-on lenses for better smartphone photography	3000	5000
+32	Yoga Mat	High-density, non-slip yoga and exercise mat	3500	8000
+33	Bluetooth Headphones	Wireless headphones for music and phone calls	8000	18000
+34	Gourmet Cheese Board	Set of assorted cheeses and a wooden board	4000	9000
+35	Sports Water Bottle	Leak-proof, easy-to-grip, and eco-friendly	1500	3000
+36	Massage Pillow	Heated pillow for at-home back and neck massages	6000	12000
+37	Wooden Puzzle	Challenging and intricate wooden brain teaser	2000	4000
+38	Coffee Grinder	Electric coffee grinder for fresh ground beans	5000	10000
+39	Air Purifier	Compact and efficient air purifier for a clean environment	10000	20000
+40	Foot Spa	Heated foot bath and massager for relaxation	9000	18000
+41	Art Set	Assorted paints, brushes, and sketch pads	4000	10000
+42	Aromatherapy Diffuser	Essential oil diffuser for relaxation and stress relief	3500	7000
+43	Cookbook Collection 	Variety of cookbooks with worldwide cuisine	2500	6000
+44	Decorative Wall Clock	Stylish and functional timepiece for any room	3000	6000
+45	Memory Foam Pillow	Ergonomic pillow for better sleep and comfort	6000	12000
+46	Book Light	Rechargeable LED book light for night reading	1500	3000
+47	Wireless Charger	Convenient and fast-charging smartphone stand	3000	7000
+48	Garden Tool Set	High-quality gardening tools and gloves	4000	8000
+49	Bath Bomb Set	Set of colorful and fragrant bath bombs	2500	5000
+50	Telescope	Portable refractor telescope for stargazing	15000	30000
+51	Pajama Set	Soft and comfortable sleepwear available in various sizes	5000	10000
+52	Bake-ware Set	Non-stick cookie sheets, muffin tins, and cake pans	4500	9000
+53	Canvas Wall Art	Beautiful and eye-catching art piece for home décor	4000	12000
+54	Sushi Set	Complete set of sushi making tools and accessories	5000	10000
+55	Jigsaw Puzzle	High-quality and challenging puzzle for all ages	2500	5000
+56	Stylish Desk Lamp	Modern and functional LED lamp for workspace	4000	8000
+57	Umbrella	Compact, windproof, and durable umbrella for rainy days	2000	4000
+58	Cocktail Set	Stainless steel shaker, strainer, and cocktail glasses	4500	10000
+59	Spa Set	Assortment of bath products for a relaxing home spa experience	6000	12000
+60	Leather Journal	Premium quality leather-bound journal for writing	3500	7000
+61	Portable Hammock	Lightweight and durable hammock for outdoor relaxation	8000	18000
+62	Robotic Vacuum Cleaner	Smart robot vacuum for effortless home cleaning	30000	70000
+63	Hydroponic Garden System	Indoor hydroponic garden for fresh veg and herbs	15000	40000
+64	LEGO set	Set of various LEGO toys	15000	30000
+65	Reversible Bed Set	Set of duvet cover, sheets, and pillowcases with multiple designs	5000	10000
+66	DIY Craft Set	Assorted crafting tools and materials for creative projects	3000	8000
+67	Luggage Set	Durable and stylish luggage for traveling	15000	40000
+68	Fruit Infuser Water Bottle	Water bottle with a fruit infuser for flavored hydration	1500	3000
+69	Wall Organizer	Practical and stylish wall-mounted storage solution	3000	7000
+70	Digital Home Cooker	Smart multicooker for convenient and fast cooking	8000	20000
+71	Bean Bag Chair	Comfortable and stylish oversized bean bag chair	12000	24000
+72	Waffle Maker	Non-stick waffle maker with adjustable heat settings	6000	12000
+73	Kitchen Knife Set	High-quality stainless steel knives with a wooden block	10000	20000
+74	Calendar Organizer	Customizable calendar with space for personal notes	2000	3000
+75	Wooden Decorative Tray	Stylish tray for serving or displaying items	2000	4000
+76	Cooking Class Voucher	Gift voucher for a master cooking class	7000	15000
+77	Mirrorless Camera	Compact and high-performance digital camera	50000	150000
+78	Electric Toothbrush	Rechargeable toothbrush with multiple cleaning modes	6000	15000
+79	Weighted Blanket	Therapeutic blankets for better sleep and relaxation	10000	20000
+80	Streaming Device	Access to thousands of TV shows and movies	7000	14000
+81	Cosmetics Set	Assorted makeup products and brushes for beauty enthusiasts	8000	18000
+82	Audiobook Subscription	Monthly subscription for unlimited audiobook access	2500	5000
+83	Travel Map	Personalized world map to track travel adventures	3000	6000
+84	Pet Grooming Set	Brushes, shampoos, and grooming tools for pets	3000	6000
+85	Meditation Cushion	Premium cushion for added comfort during meditation	4000	10000
+86	Tabletop Firepit	Glass-enclosed decorative fire pit for indoor use	5000	12000
+87	Protein Powder Set	Assorted flavors of high-quality whey protein powder	8000	18000
+88	Darts Set	Professional darts set with board and accessories	4000	10000
+89	Virtual Reality Headset	Immersive gaming and video experience	15000	40000
+90	Smart Plug Set	Set of Wi-Fi-enabled smart plugs for home automation	4000	10000
+91	Electric Blanket	Adjustable heated blanket for maximum comfort	8000	16000
+92	Vinyl Record Collection	Set of classic albums on vinyl	5000	15000
+93	Curling Iron Set	Set of different sized curling wands for hair styling	5000	15000
+94	Online Fitness Membership	Monthly subscription to virtual fitness classes	4000	10000
+95	Picnic Set	Insulated basket, cutlery, plates, and wine glasses	6000	12000
+96	Gift Card	Preloaded gift card to a popular retailer	5000	50000

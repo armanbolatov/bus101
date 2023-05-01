@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import pickle
 import openai
@@ -7,7 +8,7 @@ from openai.embeddings_utils import (
     distances_from_embeddings,
     indices_of_nearest_neighbors_from_distances,
 )
-from fastapi import FastAPI, File, UploadFile
+from fastapi import FastAPI
 from fastapi.responses import FileResponse
 from typing import List, Any
 tqdm.pandas()
@@ -18,7 +19,7 @@ PRODUCTS_PATH = "data/products.tsv"
 IMAGES_PATH = "data/images/"
 
 
-def check_user_prompt(user_prompt: str) -> str:
+def check_user_prompt(user_prompt: str) -> bool:
     """
     Args:
         user_prompt: the user prompt to check
@@ -90,7 +91,7 @@ def get_justification(name_description: str, user_prompt: str) -> str:
     """
     prompt = f"Explain why {name_description} is a perfect gift choice for someone who meets the following criteria: \"{user_prompt}\". Keep it brief and concise, and avoid using the words 'excellent'. Also, do not repeat the product name or description. Adhere to this rule diligently!"
     justification = openai.ChatCompletion.create(
-        model="gpt-4",
+        model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user", "content": prompt},
@@ -112,6 +113,10 @@ async def get_image(image_id: int):
         image:       the image
     """
     image_path = f"{IMAGES_PATH}{image_id}.png"
+    # if image does not exist, return template image
+    if not os.path.exists(image_path):
+        image_path = f"{IMAGES_PATH}0.png"
+
     return FileResponse(image_path)
 
 
@@ -120,7 +125,7 @@ async def get_recommendations(
     user_prompt: str,
     price_min: int = 0,
     price_max: int = 100500,
-    N: int = 5,
+    N: int = 6,
 ):
     """
     Args:
@@ -154,10 +159,14 @@ async def get_recommendations(
     # get the first N recommendations
     recommendations = recommendations.iloc[:N]
     # get the justifications
-    recommendations["justification"] = recommendations.progress_apply(
-        lambda x: get_justification(x["name"] + ". " + x["description"], user_prompt),
-        axis=1,
-    )
+    try:
+        recommendations["justification"] = recommendations.progress_apply(
+            lambda x: get_justification(x["name"] + ". " + x["description"], user_prompt),
+            axis=1,
+        )
+    except:
+        return {"error": "Something went wrong with OpenAI servers. Please try again."}
+    # convert to dict
     recommendations = recommendations.to_dict(orient="records")
 
     return recommendations
