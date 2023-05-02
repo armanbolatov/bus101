@@ -31,7 +31,7 @@ def check_user_prompt(user_prompt: str) -> bool:
     answer = openai.ChatCompletion.create(
         model="gpt-4",
         messages=[
-            {"role": "system", "content": "You are helping a customer find a gift for a friend."},
+            {"role": "system", "content": "You are helping a helpful assistant."},
             {"role": "user", "content": prompt},
         ],
         temperature=0.2,
@@ -89,15 +89,15 @@ def get_justification(name_description: str, user_prompt: str) -> str:
     Returns:
         justification:    the justification for the product
     """
-    prompt = f"Explain why {name_description} is a perfect gift choice for someone who meets the following criteria: \"{user_prompt}\". Keep it brief and concise, and avoid using the words 'excellent'. Also, do not repeat the product name or description. Adhere to this rule diligently!"
+    prompt = f"Explain why {name_description} is a perfect gift choice for someone who meets the following criteria: \"{user_prompt}\". Keep it brief and concise, and avoid using the words 'perfect'. Also, do not repeat the product name or description. Adhere to this rule diligently!"
     justification = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
         messages=[
-            {"role": "system", "content": "You are a helpful assistant."},
+            {"role": "system", "content": "You are helping a customer find a gift for a friend."},
             {"role": "user", "content": prompt},
         ],
-        temperature=1,
-        max_tokens=100,
+        temperature=1.01,
+        max_tokens=80,
         top_p=1,
     ).choices[0].message.content
 
@@ -125,7 +125,7 @@ async def get_recommendations(
     user_prompt: str,
     price_min: int = 0,
     price_max: int = 100500,
-    N: int = 6,
+    N: int = 3,
 ):
     """
     Args:
@@ -138,7 +138,7 @@ async def get_recommendations(
         recommendations: the recommendations
     """
     if not check_user_prompt(user_prompt):
-        return {"error": "The user prompt is not appropriate. Please try again."}
+        return {"error": "The prompt is not an appropriate description of a person. Please try again."}
     
     products = pd.read_csv(PRODUCTS_PATH, sep="\t")
     names_descriptions = products["name"] + ". " + products["description"]
@@ -158,6 +158,9 @@ async def get_recommendations(
     ]
     # get the first N recommendations
     recommendations = recommendations.iloc[:N]
+    # if there are no recommendations, return an error
+    if recommendations.shape[0] == 0:
+        return {"error": "There are no recommendations for this price range. Please try again."}
     # get the justifications
     try:
         recommendations["justification"] = recommendations.progress_apply(

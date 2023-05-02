@@ -1,97 +1,97 @@
-id	name	description	price_min	price_max
-1	Chocolate Box	Assorted chocolates for sweet lovers	2500	5000
-2	Perfume Set	Aromatic fragrance collection for men and women	7000	15000
-3	Silk Scarf	High-quality silk scarf with elegant designs	5000	10000
-4	Leather Wallet	Sleek and durable leather wallet for daily use	3500	7000
-5	Candles Set	Scented candles for relaxation and ambiance	3000	6000
-6	Smartphone Holder	Adjustable and portable smartphone stand	1500	3500
-7	Personalized Mug	Customizable mug with name or picture	2000	4500
-8	Bluetooth Speaker	Compact wireless speaker with high-quality sound	6000	12000
-9	Stationery Set	Classy writing tools and notebook for professionals	4000	8000
-10	Wine Bottle	Premium red or white wine selection	3500	10000
-11	Board Game	Fun and engaging board games for all ages	3000	7000
-12	Portable Charger	High-capacity power bank for all devices	5000	10000
-13	Infinity Rose	Beautiful preserved rose in a glass dome	4500	8500
-14	Skincare Set	High-quality skincare products for a glowing skin	6000	15000
-15	Handmade Jewelry	Unique handmade earrings, necklaces, or bracelets	2000	6000
-16	Sweets & Nuts Box	A mixed box of delicious sweets and nuts	2500	5500
-17	Stainless Steel Tumbler	Vacuum insulated tumbler to keep drinks hot or cold	2500	6000
-18	Travel Pillow	Ultra-soft neck pillow for comfortable traveling	2000	4000
-19	Indoor Plant Pot	Elegant and stylish ceramic indoor plant pot	1500	3000
-20	Throw Blanket	Cozy and soft throw blanket for home décor	4000	8000
-21	Keychain	Personalized keychain with a custom design	500	1500
-22	Family Photo Frame	Beautiful photo frame for family memories	1500	3000
-23	Fitness Tracker	Smart wristband to track daily activities and sleep	8000	18000
-24	Cookware Set	Quality non-stick pots and pans	12000	25000
-25	Gourmet Tea Set	Assorted fine tea leaves and infuser	2500	5000
-26	Digital Photo Frame	Electronic picture frame to showcase memories	7000	15000
-27	BBQ Tool Set	Stainless steel grill tools for outdoor cooking	5000	12000
-28	Ceramic Vase	Elegant decorative vase for home or office	2000	4500
-29	Earrings	Set of stud and dangle earrings with different designs	3000	6000
-30	Instant Camera	Fun instant print camera with film pack	15000	25000
-31	Smartphone Lens Kit	Clip-on lenses for better smartphone photography	3000	5000
-32	Yoga Mat	High-density, non-slip yoga and exercise mat	3500	8000
-33	Bluetooth Headphones	Wireless headphones for music and phone calls	8000	18000
-34	Gourmet Cheese Board	Set of assorted cheeses and a wooden board	4000	9000
-35	Sports Water Bottle	Leak-proof, easy-to-grip, and eco-friendly	1500	3000
-36	Massage Pillow	Heated pillow for at-home back and neck massages	6000	12000
-37	Wooden Puzzle	Challenging and intricate wooden brain teaser	2000	4000
-38	Coffee Grinder	Electric coffee grinder for fresh ground beans	5000	10000
-39	Air Purifier	Compact and efficient air purifier for a clean environment	10000	20000
-40	Foot Spa	Heated foot bath and massager for relaxation	9000	18000
-41	Art Set	Assorted paints, brushes, and sketch pads	4000	10000
-42	Aromatherapy Diffuser	Essential oil diffuser for relaxation and stress relief	3500	7000
-43	Cookbook Collection 	Variety of cookbooks with worldwide cuisine	2500	6000
-44	Decorative Wall Clock	Stylish and functional timepiece for any room	3000	6000
-45	Memory Foam Pillow	Ergonomic pillow for better sleep and comfort	6000	12000
-46	Book Light	Rechargeable LED book light for night reading	1500	3000
-47	Wireless Charger	Convenient and fast-charging smartphone stand	3000	7000
-48	Garden Tool Set	High-quality gardening tools and gloves	4000	8000
-49	Bath Bomb Set	Set of colorful and fragrant bath bombs	2500	5000
-50	Telescope	Portable refractor telescope for stargazing	15000	30000
-51	Pajama Set	Soft and comfortable sleepwear available in various sizes	5000	10000
-52	Bake-ware Set	Non-stick cookie sheets, muffin tins, and cake pans	4500	9000
-53	Canvas Wall Art	Beautiful and eye-catching art piece for home décor	4000	12000
-54	Sushi Set	Complete set of sushi making tools and accessories	5000	10000
-55	Jigsaw Puzzle	High-quality and challenging puzzle for all ages	2500	5000
-56	Stylish Desk Lamp	Modern and functional LED lamp for workspace	4000	8000
-57	Umbrella	Compact, windproof, and durable umbrella for rainy days	2000	4000
-58	Cocktail Set	Stainless steel shaker, strainer, and cocktail glasses	4500	10000
-59	Spa Set	Assortment of bath products for a relaxing home spa experience	6000	12000
-60	Leather Journal	Premium quality leather-bound journal for writing	3500	7000
-61	Portable Hammock	Lightweight and durable hammock for outdoor relaxation	8000	18000
-62	Robotic Vacuum Cleaner	Smart robot vacuum for effortless home cleaning	30000	70000
-63	Hydroponic Garden System	Indoor hydroponic garden for fresh veg and herbs	15000	40000
-64	LEGO set	Set of various LEGO toys	15000	30000
-65	Reversible Bed Set	Set of duvet cover, sheets, and pillowcases with multiple designs	5000	10000
-66	DIY Craft Set	Assorted crafting tools and materials for creative projects	3000	8000
-67	Luggage Set	Durable and stylish luggage for traveling	15000	40000
-68	Fruit Infuser Water Bottle	Water bottle with a fruit infuser for flavored hydration	1500	3000
-69	Wall Organizer	Practical and stylish wall-mounted storage solution	3000	7000
-70	Digital Home Cooker	Smart multicooker for convenient and fast cooking	8000	20000
-71	Bean Bag Chair	Comfortable and stylish oversized bean bag chair	12000	24000
-72	Waffle Maker	Non-stick waffle maker with adjustable heat settings	6000	12000
-73	Kitchen Knife Set	High-quality stainless steel knives with a wooden block	10000	20000
-74	Calendar Organizer	Customizable calendar with space for personal notes	2000	3000
-75	Wooden Decorative Tray	Stylish tray for serving or displaying items	2000	4000
-76	Cooking Class Voucher	Gift voucher for a master cooking class	7000	15000
-77	Mirrorless Camera	Compact and high-performance digital camera	50000	150000
-78	Electric Toothbrush	Rechargeable toothbrush with multiple cleaning modes	6000	15000
-79	Weighted Blanket	Therapeutic blankets for better sleep and relaxation	10000	20000
-80	Streaming Device	Access to thousands of TV shows and movies	7000	14000
-81	Cosmetics Set	Assorted makeup products and brushes for beauty enthusiasts	8000	18000
-82	Audiobook Subscription	Monthly subscription for unlimited audiobook access	2500	5000
-83	Travel Map	Personalized world map to track travel adventures	3000	6000
-84	Pet Grooming Set	Brushes, shampoos, and grooming tools for pets	3000	6000
-85	Meditation Cushion	Premium cushion for added comfort during meditation	4000	10000
-86	Tabletop Firepit	Glass-enclosed decorative fire pit for indoor use	5000	12000
-87	Protein Powder Set	Assorted flavors of high-quality whey protein powder	8000	18000
-88	Darts Set	Professional darts set with board and accessories	4000	10000
-89	Virtual Reality Headset	Immersive gaming and video experience	15000	40000
-90	Smart Plug Set	Set of Wi-Fi-enabled smart plugs for home automation	4000	10000
-91	Electric Blanket	Adjustable heated blanket for maximum comfort	8000	16000
-92	Vinyl Record Collection	Set of classic albums on vinyl	5000	15000
-93	Curling Iron Set	Set of different sized curling wands for hair styling	5000	15000
-94	Online Fitness Membership	Monthly subscription to virtual fitness classes	4000	10000
-95	Picnic Set	Insulated basket, cutlery, plates, and wine glasses	6000	12000
-96	Gift Card	Preloaded gift card to a popular retailer	5000	50000
+id	name	description	price_min	price_max	amazon	kaspi
+1	Chocolate Box	Assorted chocolates for sweet lovers	2500	5000	https://www.amazon.com/s?k=Chocolate+Box	https://kaspi.kz/shop/search/?text=Perfume%20Set
+2	Perfume Set	Aromatic fragrance collection for men and women	7000	15000	https://www.amazon.com/s?k=Perfume+Set	https://kaspi.kz/shop/search/?text=Perfume%20Set
+3	Silk Scarf	High-quality silk scarf with elegant designs	5000	10000	https://www.amazon.com/s?k=Silk+Scarf	https://kaspi.kz/shop/search/?text=Silk%20Scarf
+4	Leather Wallet	Sleek and durable leather wallet for daily use	3500	7000	https://www.amazon.com/s?k=Leather+Wallet	https://kaspi.kz/shop/search/?text=Leather%20Wallet
+5	Candles Set	Scented candles for relaxation and ambiance	3000	6000	https://www.amazon.com/s?k=Candles+Set	https://kaspi.kz/shop/search/?text=Candles%20Set
+6	Smartphone Holder	Adjustable and portable smartphone stand	1500	3500	https://www.amazon.com/s?k=Smartphone+Holder	https://kaspi.kz/shop/search/?text=Smartphone%20Holder
+7	Personalized Mug	Customizable mug with name or picture	2000	4500	https://www.amazon.com/s?k=Personalized+Mug	https://kaspi.kz/shop/search/?text=Personalized%20Mug
+8	Bluetooth Speaker	Compact wireless speaker with high-quality sound	6000	12000	https://www.amazon.com/s?k=Bluetooth+Speaker	https://kaspi.kz/shop/search/?text=Bluetooth%20Speaker
+9	Stationery Set	Classy writing tools and notebook for professionals	4000	8000	https://www.amazon.com/s?k=Stationery+Set	https://kaspi.kz/shop/search/?text=Stationery%20Set
+10	Wine Bottle	Premium red or white wine selection	3500	10000	https://www.amazon.com/s?k=Wine+Bottle	https://kaspi.kz/shop/search/?text=Wine%20Bottle
+11	Board Game	Fun and engaging board games for all ages	3000	7000	https://www.amazon.com/s?k=Board+Game	https://kaspi.kz/shop/search/?text=Board%20Game
+12	Portable Charger	High-capacity power bank for all devices	5000	10000	https://www.amazon.com/s?k=Portable+Charger	https://kaspi.kz/shop/search/?text=Portable%20Charger
+13	Infinity Rose	Beautiful preserved rose in a glass dome	4500	8500	https://www.amazon.com/s?k=Infinity+Rose	https://kaspi.kz/shop/search/?text=Infinity%20Rose
+14	Skincare Set	High-quality skincare products for a glowing skin	6000	15000	https://www.amazon.com/s?k=Skincare+Set	https://kaspi.kz/shop/search/?text=Skincare%20Set
+15	Handmade Jewelry	Unique handmade earrings, necklaces, or bracelets	2000	6000	https://www.amazon.com/s?k=Handmade+Jewelry	https://kaspi.kz/shop/search/?text=Handmade%20Jewelry
+16	Sweets & Nuts Box	A mixed box of delicious sweets and nuts	2500	5500	https://www.amazon.com/s?k=Sweets+%26+Nuts+Box	https://kaspi.kz/shop/search/?text=Sweets%20%26%20Nuts%20Box
+17	Stainless Steel Tumbler	Vacuum insulated tumbler to keep drinks hot or cold	2500	6000	https://www.amazon.com/s?k=Stainless+Steel+Tumbler	https://kaspi.kz/shop/search/?text=Stainless%20Steel%20Tumbler
+18	Travel Pillow	Ultra-soft neck pillow for comfortable traveling	2000	4000	https://www.amazon.com/s?k=Travel+Pillow	https://kaspi.kz/shop/search/?text=Travel%20Pillow
+19	Indoor Plant Pot	Elegant and stylish ceramic indoor plant pot	1500	3000	https://www.amazon.com/s?k=Indoor+Plant+Pot	https://kaspi.kz/shop/search/?text=Indoor%20Plant%20Pot
+20	Throw Blanket	Cozy and soft throw blanket for home décor	4000	8000	https://www.amazon.com/s?k=Throw+Blanket	https://kaspi.kz/shop/search/?text=Throw%20Blanket
+21	Keychain	Personalized keychain with a custom design	500	1500	https://www.amazon.com/s?k=Keychain	https://kaspi.kz/shop/search/?text=Keychain
+22	Family Photo Frame	Beautiful photo frame for family memories	1500	3000	https://www.amazon.com/s?k=Family+Photo+Frame	https://kaspi.kz/shop/search/?text=Family%20Photo%20Frame
+23	Fitness Tracker	Smart wristband to track daily activities and sleep	8000	18000	https://www.amazon.com/s?k=Fitness+Tracker	https://kaspi.kz/shop/search/?text=Fitness%20Tracker
+24	Cookware Set	Quality non-stick pots and pans	12000	25000	https://www.amazon.com/s?k=Cookware+Set	https://kaspi.kz/shop/search/?text=Cookware%20Set
+25	Gourmet Tea Set	Assorted fine tea leaves and infuser	2500	5000	https://www.amazon.com/s?k=Gourmet+Tea+Set	https://kaspi.kz/shop/search/?text=Gourmet%20Tea%20Set
+26	Digital Photo Frame	Electronic picture frame to showcase memories	7000	15000	https://www.amazon.com/s?k=Digital+Photo+Frame	https://kaspi.kz/shop/search/?text=Digital%20Photo%20Frame
+27	BBQ Tool Set	Stainless steel grill tools for outdoor cooking	5000	12000	https://www.amazon.com/s?k=BBQ+Tool+Set	https://kaspi.kz/shop/search/?text=BBQ%20Tool%20Set
+28	Ceramic Vase	Elegant decorative vase for home or office	2000	4500	https://www.amazon.com/s?k=Ceramic+Vase	https://kaspi.kz/shop/search/?text=Ceramic%20Vase
+29	Earrings	Set of stud and dangle earrings with different designs	3000	6000	https://www.amazon.com/s?k=Earrings	https://kaspi.kz/shop/search/?text=Earrings
+30	Instant Camera	Fun instant print camera with film pack	15000	25000	https://www.amazon.com/s?k=Instant+Camera	https://kaspi.kz/shop/search/?text=Instant%20Camera
+31	Smartphone Lens Kit	Clip-on lenses for better smartphone photography	3000	5000	https://www.amazon.com/s?k=Smartphone+Lens+Kit	https://kaspi.kz/shop/search/?text=Smartphone%20Lens%20Kit
+32	Yoga Mat	High-density, non-slip yoga and exercise mat	3500	8000	https://www.amazon.com/s?k=Yoga+Mat	https://kaspi.kz/shop/search/?text=Yoga%20Mat
+33	Bluetooth Headphones	Wireless headphones for music and phone calls	8000	18000	https://www.amazon.com/s?k=Bluetooth+Headphones	https://kaspi.kz/shop/search/?text=Bluetooth%20Headphones
+34	Gourmet Cheese Board	Set of assorted cheeses and a wooden board	4000	9000	https://www.amazon.com/s?k=Gourmet+Cheese+Board	https://kaspi.kz/shop/search/?text=Gourmet%20Cheese%20Board
+35	Sports Water Bottle	Leak-proof, easy-to-grip, and eco-friendly	1500	3000	https://www.amazon.com/s?k=Sports+Water+Bottle	https://kaspi.kz/shop/search/?text=Sports%20Water%20Bottle
+36	Massage Pillow	Heated pillow for at-home back and neck massages	6000	12000	https://www.amazon.com/s?k=Massage+Pillow	https://kaspi.kz/shop/search/?text=Massage%20Pillow
+37	Wooden Puzzle	Challenging and intricate wooden brain teaser	2000	4000	https://www.amazon.com/s?k=Wooden+Puzzle	https://kaspi.kz/shop/search/?text=Wooden%20Puzzle
+38	Coffee Grinder	Electric coffee grinder for fresh ground beans	5000	10000	https://www.amazon.com/s?k=Coffee+Grinder	https://kaspi.kz/shop/search/?text=Coffee%20Grinder
+39	Air Purifier	Compact and efficient air purifier for a clean environment	10000	20000	https://www.amazon.com/s?k=Air+Purifier	https://kaspi.kz/shop/search/?text=Air%20Purifier
+40	Foot Spa	Heated foot bath and massager for relaxation	9000	18000	https://www.amazon.com/s?k=Foot+Spa	https://kaspi.kz/shop/search/?text=Foot%20Spa
+41	Art Set	Assorted paints, brushes, and sketch pads	4000	10000	https://www.amazon.com/s?k=Art+Set	https://kaspi.kz/shop/search/?text=Art%20Set
+42	Aromatherapy Diffuser	Essential oil diffuser for relaxation and stress relief	3500	7000	https://www.amazon.com/s?k=Aromatherapy+Diffuser	https://kaspi.kz/shop/search/?text=Aromatherapy%20Diffuser
+43	Cookbook Collection 	Variety of cookbooks with worldwide cuisine	2500	6000	https://www.amazon.com/s?k=Cookbook+Collection	https://kaspi.kz/shop/search/?text=Cookbook%20Collection
+44	Decorative Wall Clock	Stylish and functional timepiece for any room	3000	6000	https://www.amazon.com/s?k=Decorative+Wall+Clock	https://kaspi.kz/shop/search/?text=Decorative%20Wall%20Clock
+45	Memory Foam Pillow	Ergonomic pillow for better sleep and comfort	6000	12000	https://www.amazon.com/s?k=Memory+Foam+Pillow	https://kaspi.kz/shop/search/?text=Memory%20Foam%20Pillow
+46	Book Light	Rechargeable LED book light for night reading	1500	3000	https://www.amazon.com/s?k=Book+Light	https://kaspi.kz/shop/search/?text=Book%20Light
+47	Wireless Charger	Convenient and fast-charging smartphone stand	3000	7000	https://www.amazon.com/s?k=Wireless+Charger	https://kaspi.kz/shop/search/?text=Wireless%20Charger
+48	Garden Tool Set	High-quality gardening tools and gloves	4000	8000	https://www.amazon.com/s?k=Garden+Tool+Set	https://kaspi.kz/shop/search/?text=Garden%20Tool%20Set
+49	Bath Bomb Set	Set of colorful and fragrant bath bombs	2500	5000	https://www.amazon.com/s?k=Bath+Bomb+Set	https://kaspi.kz/shop/search/?text=Bath%20Bomb%20Set
+50	Telescope	Portable refractor telescope for stargazing	15000	30000	https://www.amazon.com/s?k=Telescope	https://kaspi.kz/shop/search/?text=Telescope
+51	Pajama Set	Soft and comfortable sleepwear available in various sizes	5000	10000	https://www.amazon.com/s?k=Pajama+Set	https://kaspi.kz/shop/search/?text=Pajama%20Set
+52	Bake-ware Set	Non-stick cookie sheets, muffin tins, and cake pans	4500	9000	https://www.amazon.com/s?k=Bake-ware+Set	https://kaspi.kz/shop/search/?text=Bake-ware%20Set
+53	Canvas Wall Art	Beautiful and eye-catching art piece for home décor	4000	12000	https://www.amazon.com/s?k=Canvas+Wall+Art	https://kaspi.kz/shop/search/?text=Canvas%20Wall%20Art
+54	Sushi Set	Complete set of sushi making tools and accessories	5000	10000	https://www.amazon.com/s?k=Sushi+Set	https://kaspi.kz/shop/search/?text=Sushi%20Set
+55	Jigsaw Puzzle	High-quality and challenging puzzle for all ages	2500	5000	https://www.amazon.com/s?k=Jigsaw+Puzzle	https://kaspi.kz/shop/search/?text=Jigsaw%20Puzzle
+56	Stylish Desk Lamp	Modern and functional LED lamp for workspace	4000	8000	https://www.amazon.com/s?k=Stylish+Desk+Lamp	https://kaspi.kz/shop/search/?text=Stylish%20Desk%20Lamp
+57	Umbrella	Compact, windproof, and durable umbrella for rainy days	2000	4000	https://www.amazon.com/s?k=Umbrella	https://kaspi.kz/shop/search/?text=Umbrella
+58	Cocktail Set	Stainless steel shaker, strainer, and cocktail glasses	4500	10000	https://www.amazon.com/s?k=Cocktail+Set	https://kaspi.kz/shop/search/?text=Cocktail%20Set
+59	Spa Set	Assortment of bath products for a relaxing home spa experience	6000	12000	https://www.amazon.com/s?k=Spa+Set	https://kaspi.kz/shop/search/?text=Spa%20Set
+60	Leather Journal	Premium quality leather-bound journal for writing	3500	7000	https://www.amazon.com/s?k=Leather+Journal	https://kaspi.kz/shop/search/?text=Leather%20Journal
+61	Portable Hammock	Lightweight and durable hammock for outdoor relaxation	8000	18000	https://www.amazon.com/s?k=Portable+Hammock	https://kaspi.kz/shop/search/?text=Portable%20Hammock
+62	Robotic Vacuum Cleaner	Smart robot vacuum for effortless home cleaning	30000	70000	https://www.amazon.com/s?k=Robotic+Vacuum+Cleaner	https://kaspi.kz/shop/search/?text=Robotic%20Vacuum%20Cleaner
+63	Hydroponic Garden System	Indoor hydroponic garden for fresh veg and herbs	15000	40000	https://www.amazon.com/s?k=Hydroponic+Garden+System	https://kaspi.kz/shop/search/?text=Hydroponic%20Garden%20System
+64	LEGO set	Set of various LEGO toys	15000	30000	https://www.amazon.com/s?k=LEGO+set	https://kaspi.kz/shop/search/?text=LEGO%20set
+65	Reversible Bed Set	Set of duvet cover, sheets, and pillowcases with multiple designs	5000	10000	https://www.amazon.com/s?k=Reversible+Bed+Set	https://kaspi.kz/shop/search/?text=Reversible%20Bed%20Set
+66	DIY Craft Set	Assorted crafting tools and materials for creative projects	3000	8000	https://www.amazon.com/s?k=DIY+Craft+Set	https://kaspi.kz/shop/search/?text=DIY%20Craft%20Set
+67	Luggage Set	Durable and stylish luggage for traveling	15000	40000	https://www.amazon.com/s?k=Luggage+Set	https://kaspi.kz/shop/search/?text=Luggage%20Set
+68	Fruit Infuser Water Bottle	Water bottle with a fruit infuser for flavored hydration	1500	3000	https://www.amazon.com/s?k=Fruit+Infuser+Water+Bottle	https://kaspi.kz/shop/search/?text=Fruit%20Infuser%20Water%20Bottle
+69	Wall Organizer	Practical and stylish wall-mounted storage solution	3000	7000	https://www.amazon.com/s?k=Wall+Organizer	https://kaspi.kz/shop/search/?text=Wall%20Organizer
+70	Digital Home Cooker	Smart multicooker for convenient and fast cooking	8000	20000	https://www.amazon.com/s?k=Digital+Home+Cooker	https://kaspi.kz/shop/search/?text=Digital%20Home%20Cooker
+71	Bean Bag Chair	Comfortable and stylish oversized bean bag chair	12000	24000	https://www.amazon.com/s?k=Bean+Bag+Chair	https://kaspi.kz/shop/search/?text=Bean%20Bag%20Chair
+72	Waffle Maker	Non-stick waffle maker with adjustable heat settings	6000	12000	https://www.amazon.com/s?k=Waffle+Maker	https://kaspi.kz/shop/search/?text=Waffle%20Maker
+73	Kitchen Knife Set	High-quality stainless steel knives with a wooden block	10000	20000	https://www.amazon.com/s?k=Kitchen+Knife+Set	https://kaspi.kz/shop/search/?text=Kitchen%20Knife%20Set
+74	Calendar Organizer	Customizable calendar with space for personal notes	2000	3000	https://www.amazon.com/s?k=Calendar+Organizer	https://kaspi.kz/shop/search/?text=Calendar%20Organizer
+75	Wooden Decorative Tray	Stylish tray for serving or displaying items	2000	4000	https://www.amazon.com/s?k=Wooden+Decorative+Tray	https://kaspi.kz/shop/search/?text=Wooden%20Decorative%20Tray
+76	Cooking Class Voucher	Gift voucher for a master cooking class	7000	15000	https://www.amazon.com/s?k=Cooking+Class+Voucher	https://kaspi.kz/shop/search/?text=Cooking%20Class%20Voucher
+77	Mirrorless Camera	Compact and high-performance digital camera	50000	150000	https://www.amazon.com/s?k=Mirrorless+Camera	https://kaspi.kz/shop/search/?text=Mirrorless%20Camera
+78	Electric Toothbrush	Rechargeable toothbrush with multiple cleaning modes	6000	15000	https://www.amazon.com/s?k=Electric+Toothbrush	https://kaspi.kz/shop/search/?text=Electric%20Toothbrush
+79	Weighted Blanket	Therapeutic blankets for better sleep and relaxation	10000	20000	https://www.amazon.com/s?k=Weighted+Blanket	https://kaspi.kz/shop/search/?text=Weighted%20Blanket
+80	Streaming Device	Access to thousands of TV shows and movies	7000	14000	https://www.amazon.com/s?k=Streaming+Device	https://kaspi.kz/shop/search/?text=Streaming%20Device
+81	Cosmetics Set	Assorted makeup products and brushes for beauty enthusiasts	8000	18000	https://www.amazon.com/s?k=Cosmetics+Set	https://kaspi.kz/shop/search/?text=Cosmetics%20Set
+82	Audiobook Subscription	Monthly subscription for unlimited audiobook access	2500	5000	https://www.amazon.com/s?k=Audiobook+Subscription	https://kaspi.kz/shop/search/?text=Audiobook%20Subscription
+83	Travel Map	Personalized world map to track travel adventures	3000	6000	https://www.amazon.com/s?k=Travel+Map	https://kaspi.kz/shop/search/?text=Travel%20Map
+84	Pet Grooming Set	Brushes, shampoos, and grooming tools for pets	3000	6000	https://www.amazon.com/s?k=Pet+Grooming+Set	https://kaspi.kz/shop/search/?text=Pet%20Grooming%20Set
+85	Meditation Cushion	Premium cushion for added comfort during meditation	4000	10000	https://www.amazon.com/s?k=Meditation+Cushion	https://kaspi.kz/shop/search/?text=Meditation%20Cushion
+86	Tabletop Firepit	Glass-enclosed decorative fire pit for indoor use	5000	12000	https://www.amazon.com/s?k=Tabletop+Firepit	https://kaspi.kz/shop/search/?text=Tabletop%20Firepit
+87	Protein Powder Set	Assorted flavors of high-quality whey protein powder	8000	18000	https://www.amazon.com/s?k=Protein+Powder+Set	https://kaspi.kz/shop/search/?text=Protein%20Powder%20Set
+88	Darts Set	Professional darts set with board and accessories	4000	10000	https://www.amazon.com/s?k=Darts+Set	https://kaspi.kz/shop/search/?text=Darts%20Set
+89	Virtual Reality Headset	Immersive gaming and video experience	15000	40000	https://www.amazon.com/s?k=Virtual+Reality+Headset	https://kaspi.kz/shop/search/?text=Virtual%20Reality%20Headset
+90	Smart Plug Set	Set of Wi-Fi-enabled smart plugs for home automation	4000	10000	https://www.amazon.com/s?k=Smart+Plug+Set	https://kaspi.kz/shop/search/?text=Smart%20Plug%20Set
+91	Electric Blanket	Adjustable heated blanket for maximum comfort	8000	16000	https://www.amazon.com/s?k=Electric+Blanket	https://kaspi.kz/shop/search/?text=Electric%20Blanket
+92	Vinyl Record Collection	Set of classic albums on vinyl	5000	15000	https://www.amazon.com/s?k=Vinyl+Record+Collection	https://kaspi.kz/shop/search/?text=Vinyl%20Record%20Collection
+93	Curling Iron Set	Set of different sized curling wands for hair styling	5000	15000	https://www.amazon.com/s?k=Curling+Iron+Set	https://kaspi.kz/shop/search/?text=Curling%20Iron%20Set
+94	Online Fitness Membership	Monthly subscription to virtual fitness classes	4000	10000	https://www.amazon.com/s?k=Online+Fitness+Membership	https://kaspi.kz/shop/search/?text=Online%20Fitness%20Membership
+95	Picnic Set	Insulated basket, cutlery, plates, and wine glasses	6000	12000	https://www.amazon.com/s?k=Picnic+Set	https://kaspi.kz/shop/search/?text=Picnic%20Set
+96	Gift Card	Preloaded gift card to a popular retailer	5000	50000	https://www.amazon.com/s?k=Gift+Card	https://kaspi.kz/shop/search/?text=Gift%20Card
